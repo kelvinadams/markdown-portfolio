@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Kelvin Adams Image](https://avatars.githubusercontent.com/u/83097984?s=60&v=4)
